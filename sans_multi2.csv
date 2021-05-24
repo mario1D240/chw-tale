@@ -1,4 +1,5 @@
 0,HeartTeleport,320,304,,,,,,
+0,DamagePlayer,-58,,,,,,,
 0,SET,Loop,5,,,,,,
 0,:RndAttack,,,,,,,,
 0,BlackScreen,1,,,,,,,
